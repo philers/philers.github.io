@@ -3,14 +3,16 @@
 347-601-6691 | philip.er.shipley at gmail.com | [LinkedIn](https://www.linkedin.com/in/philip-shipley-40a99395/)
 
 
-##### Education
+##### EDUCATION
 
 **JOHNSON CORNELL TECH MBA**
 _New York, NY_
 
+
 Master of Business Administration, May 2021	
 GMAT 720	
-		
+
+
 **UNIVERSITY OF CAMBRIDGE**
 _Cambridge, UK_
 
@@ -18,11 +20,9 @@ MA (Cantab) English Literature, II.1, June 2013
 
 
 
-##### Experience
+##### EXPERIENCE
 
 **BARTLE BOGLE HEGARTY (BBH)**
-
-Creative Agency
 
 ### Senior Strategist 
 
@@ -51,8 +51,6 @@ Specialist in CRM and direct marketing within a fully integrated agency team.
 
 **SEVEN SECONDS**
 
-Marketing and Innovation Consultancy
-
 ### Junior Strategist
 2014-2015
 _London, UK_
@@ -63,12 +61,12 @@ Worked directly with founders as junior strategic planner across all projects.
 
 
 
-##### Projects
+##### PROJECTS
 
 _Theatre Producer_: Managed a professional team, while a student, for the Marlowe Society with production budget of £18,000. At Edinburgh Fringe Festival, organized and produced a month-long run of a goth-horror Macbeth. 	
 
 
-##### Personal
+##### PERSONAL
 
 _Travel_: Lived and worked in Japan for four months. Travelled extensively including trips to India, Uganda, Europe and the USA.
 	
