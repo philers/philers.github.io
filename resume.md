@@ -1,22 +1,31 @@
-PHILIP SHIPLEY
+#PHILIP SHIPLEY
+
 347-601-6691 | pes97@cornell.edu | LinkedIn
 
 		
 ### Education	
 **JOHNSON CORNELL TECH MBA**
+
 _New York, NY_
+
 Master of Business Administration, May 2021	
+
 GMAT 720	
 		
 **UNIVERSITY OF CAMBRIDGE**
+
 _Cambridge, UK_
+
 MA (Cantab) English Literature, II.1, June 2013	
 		
 ### Experience	
 **BARTLE BOGLE HEGARTY (BBH)**
-_New York, NY_
-2017-2020	
-## Senior Strategist (Creative Agency)
+
+## Senior Strategist 
+(Creative Agency)
+
+_New York, NY_ | 2017-2020
+
 Built brand strategies and executed creative campaigns to bring organizational focus and deliver growth for technology and financial services clients. 	
 - Launched Brighthouse Financial, a new brand, as a spin off from MetLife. Responsible for financial advisor and social strategy. 
 - Delivered $4.975 billion revenue attributable to marketing campaigns over three years, and 13,000 financial advisor leads passed to sales desk. 
@@ -24,10 +33,12 @@ Built brand strategies and executed creative campaigns to bring organizational f
 - Developed strategic repositioning for Fanduel, including qual and quant research to build new market sizing, segmentation, and brand strategy.	
 - Created global product launch campaign for Samsung Tab S6.	
 - Refreshed and coordinated BBH Barn Summer internship program. Selection, onboarding and training for ten interns in 2019.	
+	
+## Strategist
+(Creative Agency)
 
-_London, UK_
-2015-2017	
-## Strategist (Creative Agency)
+_London, UK_ | 2015-2017
+
 Specialist in CRM and direct marketing within a fully integrated agency team. 
 - Led strategic development of performance marketing campaigns for Barclays UK Consumer Lending and Mortgages. 
 - Helped develop new brand purpose, contributing to short term ROI of £2.30 for every £1 invested, and increase of brand trust from record lows. 
@@ -36,9 +47,10 @@ Specialist in CRM and direct marketing within a fully integrated agency team.
 - Other clients included Experian and Heinz	
 
 **SEVEN SECONDS**
-_London, UK_
-2014-2015
-## Junior Strategist (Marketing and Innovation Consultancy)	
+## Junior Strategist (Marketing and Innovation Consultancy)
+
+_London, UK_ | 2014-2015
+
 Worked directly with founders as junior strategic planner across all projects.
 - Created high-value retention strategy for British Airways Executive Club.
 - Assisted on North Star strategy for the future of retail experience for Waitrose.	
